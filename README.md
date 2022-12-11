@@ -5,7 +5,7 @@
 ## Introdução
 
    No ano de 2020 a humanidade enfrentou um de seus maiores desafios em décadas, uma pandemia de alcance global assolou o planeta todo e trouxe consigo
-milhares de mortes, desinformações, crise financeira e muitas dúvidas quanto aofuturo. 
+milhares de mortes, desinformações, crise financeira e muitas dúvidas quanto ao futuro. 
    Neste cenário a comunidade científica ficou encarregada de encontrar uma solução para o coronavírus, solução esta que veio por meio de vacinas desenvolvidas em tempo recorde e capazes de devolver à sociedade uma vida normal.
   A partir do momento em que o desenvolvimento das vacinas chegaram às fases finais de testes, houve uma preocupação de países e instituições como a OMS
 na maneira em que esse recurso finito seria distribuído, uma vez que países com maior poder econômico tem maior poder de barganha e, como resultado, vão
@@ -129,6 +129,12 @@ queda do número de mortes para cada país estudado a fim de validar nossos dado
 Obtivemos apenas parâmetros do números de pessoas salvas pela vacinação nos
 Estados Unidos [2] e Inglaterra[12], não sendo suficiente para validar a saída do
 sistema.
+
+## Técnologias utilizadas:
+
+- [MATLAB](https://www.mathworks.com/products/matlab.html)
+- [Python](https://www.python.org/downloads/) 
+
 
 # Referências bibliográficas
 
