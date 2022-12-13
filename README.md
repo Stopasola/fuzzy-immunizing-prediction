@@ -135,6 +135,11 @@ sistema.
 - [MATLAB](https://www.mathworks.com/products/matlab.html)
 - [Python](https://www.python.org/downloads/) 
 
+## Equipe
+
+- [Fernando Stopasola](https://github.com/Stopasola)
+- [Andrey Ribeiro](https://github.com/AndreyWR)
+- [João Pedro Dotta](https://github.com/pistydotta)
 
 # Referências bibliográficas
 
